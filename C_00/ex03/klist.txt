@@ -1,0 +1,5 @@
+Credentials cache: API:77EDD87F-FA02-497B-BEFC-E8FBFA0DDF04
+        Principal: mberthoi@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  6 18:16:00 2021  Jul  7 18:16:00 2021  krbtgt/42LYON.FR@42LYON.FR
